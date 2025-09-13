@@ -1,0 +1,5 @@
+{
+  "name": "NeoBGC V1",
+  "description": "An AI assistant called 'NeoBGC V1' that uses text and image generation models (Nano Banana) with an interface and style similar to ChatGPT.",
+  "requestFramePermissions": []
+}
